@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "morgan": "^1.10.1",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/morgan": "^1.9.10",
+    "@types/uuid": "^10.0.0"
+  }
+}
